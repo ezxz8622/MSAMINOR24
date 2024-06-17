@@ -1,1 +1,1 @@
-# MSAMINOR24
+# MSA Minor 2024
